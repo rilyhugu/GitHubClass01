@@ -1,1 +1,3 @@
-# GitHubClass01
+# Rily Hugu
+りりーふぐって言います
+こんにちは
